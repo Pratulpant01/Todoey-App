@@ -1,5 +1,7 @@
 # todoey
 
+![](https://github.com/Pratulpant01/Todoey-App/blob/master/Todoey%20App.gif)
+
 A new Flutter project.
 
 ## Getting Started
